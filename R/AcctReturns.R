@@ -1,4 +1,4 @@
-#' Calculate account returns
+#' Calculate account returns 
 #' 
 #' Similar to the \code{PortfReturns} function, but gives returns for the 
 #' entire account and takes into account external cashflows. External cashflows
